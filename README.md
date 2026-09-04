@@ -1,3 +1,6 @@
+> **이 저장소는 2026-09-04 에 모노레포 [Woochang4862/soon](https://github.com/Woochang4862/soon) 으로 통합됐습니다.**
+> 커밋 이력은 모노레포의 `server/` 아래에 그대로 보존돼 있습니다. 이 저장소는 읽기 전용으로 보관됩니다.
+
 # soon-server-side
 
 ## 프로젝트 소개
